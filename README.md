@@ -1,3 +1,4 @@
 # Trybe
 
-olá, só estou %$$% fazendo um teste. AQUI É GALO
+ESSA É A VERSÃO CERTA!!
+olá, Mottu
